@@ -1,0 +1,12 @@
+
+To run the webscrapping_selenium.py the ipynp file we need the following version of python
+
+Python version 3.7.0
+Jupyter version 4.4.0
+
+Chrome Driver needs to installed and kept in a folder
+Path is a variable which holds the path to chrome.exe in chrome driver folder
+
+Make changes to the Path variable
+
+The ouput is on the filename variable having the name of the file as Proposal_records.csv
